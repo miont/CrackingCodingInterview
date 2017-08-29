@@ -1,4 +1,4 @@
-package reverse_string;
+package data_structures.reverse_string;
 
 /**
  * Write code to reverse a C-Style String. (C-String means that “abcd” is represented as
@@ -12,7 +12,7 @@ public class ReverseString {
         System.out.println(reverse(null));
         System.out.println(reverse(""));
     }
-
+    
     public static String reverse(String s) {
         if (s == null) {
             return null;

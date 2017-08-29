@@ -1,0 +1,17 @@
+input: char array s of size n
+
+i = 1
+j = 1
+
+while j < n
+    if s[j] /= s[j-1]
+        s[i] <- s[j]
+        i = i + 1
+    endif
+    j = j + 1
+end while
+
+
+
+abcd
+aaabcccddd
