@@ -1,4 +1,4 @@
-package data_structures.remove_duplicates;
+package data_structures.arrays_and_strings.remove_duplicates;
 
 /**
  * Design an algorithm and write code to remove the duplicate characters in a string

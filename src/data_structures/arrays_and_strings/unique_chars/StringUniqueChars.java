@@ -1,4 +1,4 @@
-package data_structures.arrays_and_strings;
+package data_structures.arrays_and_strings.unique_chars;
 
 import java.util.*;
 

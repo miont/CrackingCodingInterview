@@ -1,4 +1,4 @@
-package data_structures.reverse_string;
+package data_structures.arrays_and_strings.reverse_string;
 
 /**
  * Write code to reverse a C-Style String. (C-String means that “abcd” is represented as
